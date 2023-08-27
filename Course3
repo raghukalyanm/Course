@@ -1,11 +1,6 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Your name : Raghu Kalyan
+The module name of your choice from Course 3 : Git and Github
+3-4 sentences on your learnings from that module :
+How to create a git repository and push files into git hub using commands - git add , git commit -m "message", git push
+How to crate a branch and push files using commands git checkout -b "branch name". git add, git commit -m "message", git origin -a "branch name" and git push
+cloning of a open source file into my gitbub account than add a new feature and push bac to github
